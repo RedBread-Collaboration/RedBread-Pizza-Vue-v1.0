@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+ormar[sqlite]
+strawberry-graphql[fastapi]
+fastapi-jwt-auth
