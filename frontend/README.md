@@ -1,4 +1,4 @@
-# RedBread-Pizza Frontend
+# RedBread-Pizza-Vue-v1.0 Frontend
 
 > Порядок запуска Frontend:
 
