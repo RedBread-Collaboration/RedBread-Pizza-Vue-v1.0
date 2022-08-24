@@ -1,4 +1,4 @@
-# RedBread-Pizza Backend
+# RedBread-Pizza-Vue-v1.0 Backend
 
 > Порядок запуска Backend:
 
