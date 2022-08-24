@@ -1,1 +1,1 @@
-# RedBread-Pizza-v1.0-Vue
+# RedBread-Pizza-Vue-v1.0
